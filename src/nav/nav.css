@@ -1,0 +1,54 @@
+.nav{
+    background-color: white;
+    width: 1080px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.welcome{
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-size: 26px;
+    display: inline-block;
+    
+}
+
+.date {
+    display: inline;
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-size: 26px;
+
+}
+
+
+
+.login{
+    width: 25%;
+    background-color: light-gray;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border: none;
+    height: 40px;
+    margin-right: 25px;
+}
+
+.login:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+}
+
+.setting{
+    width: 50px;
+    height: 50px;
+    margin-top: 7.5px;
+    margin-right: 25px;
+    float: right;
+}
+

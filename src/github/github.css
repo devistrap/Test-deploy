@@ -1,0 +1,29 @@
+.card{
+    background-color: #AB3737;
+   
+    color: black;
+    border-radius: 0px;
+    box-shadow: 5px 5px 20px 1px grey;
+    margin: 15px;
+    padding: 16px;
+    text-align: left;
+    width: 250px;
+    height: 250px;
+    
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    justify-content: space-around;
+    
+}
+
+.h1{
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    margin: 20px;
+}
